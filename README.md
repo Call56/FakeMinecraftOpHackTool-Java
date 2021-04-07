@@ -1,3 +1,3 @@
 Java版マインクラフトの偽OpHackToolです。
 偽ですので実際に取得できることはありません。
-.batですのでWindowsでのみ実行可能です。
+.exeファイルですのでWineを使用したUbuntuかWindowsのみで使用可能です。
